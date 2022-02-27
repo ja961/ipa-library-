@@ -1,0 +1,57 @@
+{
+  "name": "jailbreaks repo",
+  "identifier": "com.jb.repo",
+  "apps": [
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "pwn20wnd",
+      "subtitle": "its a jailbreak.",
+      "version": "1.10.8",
+      "versionDate": "2020-21-1",
+      "versionDescription": " its ajailbreak bro ",
+      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+      "localizedDescription": "5",
+      "iconURL": "https://tweak-box.com/wp-content/uploads/2019/04/unc0ver-jailbreak.png",
+      "tintColor": "FC2125",
+      "size": 857669
+      
+      
+   
+      
+      
+       "name": "taurine",
+      "bundleIdentifier": "com.odysseyteam.taurine",
+      "developerName": "cool star",
+      "subtitle": "its a jailbreak.",
+      "version": "1.1.2",
+      "versionDate": "2020-21-1",
+      "versionDescription": " its ajailbreak bro ",
+      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.2/Taurine-1.1.2.ipa",
+      "localizedDescription": "5",
+      "iconURL": "https://tweak-box.com/wp-content/uploads/2019/04/unc0ver-jailbreak.png",
+      "tintColor": "FC2125",
+      "size": 857669
+      
+      
+      
+  
+  
+      
+      
+       "name": "chimera",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "developerName": "cool star",
+      "subtitle": "its a jailbreak.",
+      "version": "1.1.2",
+      "versionDate": "2020-21-1",
+      "versionDescription": " its ajailbreak bro ",
+      "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.4-12.2-12.5.ipa",
+      "localizedDescription": "5",
+      "iconURL": "https://tweak-box.com/wp-content/uploads/2021/06/chimera-app-icon-high-res-120x120-1.png",
+      "tintColor": "FC2125",
+      "size": 857669
+      
+      
+      
+    
